@@ -33,7 +33,7 @@ $ npm run dev
 Build For Production
 ```sh
 $ npm run build
-$ npm start-dev
+$ npm run start-dev
 ```
 
 Public Production (with PORT)
