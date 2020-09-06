@@ -7,7 +7,7 @@ Web App Money Managerment (Nextjs + Firebase)
 
 ### Installation
 
-ncov-crawler-api requires [Node.js](https://nodejs.org/) v4+ to run.
+Requires [Node.js](https://nodejs.org/) v4+ to run.
 
 Install the dependencies
 
